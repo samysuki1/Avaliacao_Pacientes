@@ -17,6 +17,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Projeto com API Via CEP
 
+Veja a localização da clínica melhor classificada!
+
  Integramos ao nosso projeto a API via CEP. Esta API permite consultar Códigos de Endereçamento Postal (CEP) do Brasil.<br>
  Você pode consultar a documentação através [DESSE LINK](https://viacep.com.br/)
 
