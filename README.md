@@ -1,4 +1,4 @@
-<h1 align="center"> API-Via-CEP </h1>
+<h1 align="center">Opiniões de Pacientes</h1>
 
 ## Tecnologias
 

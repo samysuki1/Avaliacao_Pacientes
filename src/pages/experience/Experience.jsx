@@ -15,7 +15,7 @@ export function Experience() {
         <S.Content spacing={2}>
           <S.SubTitle>{EXPERIENCE_CONFIG.DATA.DESCRIPTION.TITLE}</S.SubTitle>
           {EXPERIENCE_CONFIG.DATA.DESCRIPTION.DATA.map((item) => (
-            <S.Paragraph key={item}>• {item}</S.Paragraph>
+            <S.Paragraph key={item}> {item}</S.Paragraph>
           ))}
         </S.Content>
         <S.Content spacing={2}>
