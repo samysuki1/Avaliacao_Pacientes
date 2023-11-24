@@ -30,5 +30,5 @@ $ npm run dev
 
 ## Vercel
 
-Veja o deployed do projeto no Vercel [LINK]()
+Veja o deployed do projeto no Vercel [LINK](https://avaliacao-pacientes.vercel.app/)
 

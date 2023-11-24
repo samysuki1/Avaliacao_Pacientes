@@ -10,7 +10,7 @@ export function Experience() {
           <span>Apresentação:</span> {EXPERIENCE_CONFIG.DATA.COMPANY}
         </S.Paragraph>
         <S.Paragraph>
-          <span>.</span> {EXPERIENCE_CONFIG.DATA.ROLE}
+          <span></span> {EXPERIENCE_CONFIG.DATA.ROLE}
         </S.Paragraph>
         <S.Content spacing={2}>
           <S.SubTitle>{EXPERIENCE_CONFIG.DATA.DESCRIPTION.TITLE}</S.SubTitle>

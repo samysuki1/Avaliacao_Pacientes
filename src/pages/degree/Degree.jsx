@@ -10,13 +10,13 @@ export function Degree() {
           <span>o que eles costumam avaliar?</span> {DEGREE_CONFIG.DATA.INSTITUTION}
         </S.Paragraph>
         <S.Paragraph>
-          <span>Quantidade de Estrelas</span> {DEGREE_CONFIG.DATA.COURSE}
+          <span>•Quantidade de Estrelas</span> {DEGREE_CONFIG.DATA.COURSE}
         </S.Paragraph>
         <S.Paragraph>
-          <span>Profisional Atencioso</span> {DEGREE_CONFIG.DATA.DURATION}
+          <span>•Profisional Atencioso</span> {DEGREE_CONFIG.DATA.DURATION}
         </S.Paragraph>
         <S.Paragraph>
-          <span>Agendamento Rápido</span> {DEGREE_CONFIG.DATA.START}
+          <span>•Agendamento Rápido</span> {DEGREE_CONFIG.DATA.START}
         </S.Paragraph>
       </S.Content>
     </S.Wrapper>

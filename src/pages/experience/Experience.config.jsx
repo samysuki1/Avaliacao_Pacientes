@@ -19,7 +19,7 @@ export const EXPERIENCE_CONFIG = {
         "Geriatria",
         "Ginecologia e obstetrícia",
         "Infectologia",
-        "DMedicina de emergência",
+        "Medicina de emergência",
       ],
     },
   },
