@@ -1,6 +1,12 @@
-<h1 align="center">Opiniões de Pacientes</h1>
+<h1 align="center">HealthHub</h1>
 
-## Tecnologias
+## Pitch em Vídeo e Documentação
+
+Veja através [DESSE LINK](https://www.loom.com/share/9479f671aae84dfe952aa96871119463) a apresentação do o HealthHub, um sistema integrado que permite a troca de informações entre clínicas, hospitais e profissionais de saúde, garantindo a continuidade do tratamento e melhorando a qualidade dos cuidados. 
+
+[LINK](https://docs.google.com/document/d/1W5GipkGq4lBjtyLXY643K8hvX9dpazHgtXeBF9RS1eA/edit) com a documentação completa.
+
+## Opiniões de Pacientes Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -9,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Styled Components
 - API Via CEP
 
-## Projeto
+## Projeto com API Via CEP
 
  Integramos ao nosso projeto a API via CEP. Esta API permite consultar Códigos de Endereçamento Postal (CEP) do Brasil.<br>
  Você pode consultar a documentação através [DESSE LINK](https://viacep.com.br/)
@@ -30,5 +36,5 @@ $ npm run dev
 
 ## Vercel
 
-Veja o deployed do projeto no Vercel [LINK](https://avaliacao-pacientes.vercel.app/)
+Veja o deploy de uma parte do projeto no Vercel [LINK](https://avaliacao-pacientes.vercel.app/)
 
