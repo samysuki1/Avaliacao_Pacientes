@@ -6,6 +6,10 @@ Veja através [DESSE LINK](https://www.loom.com/share/9479f671aae84dfe952aa96871
 
 [LINK](https://docs.google.com/document/d/1W5GipkGq4lBjtyLXY643K8hvX9dpazHgtXeBF9RS1eA/edit) com a documentação completa.
 
+## Repositório Front-end HealthHub
+
+Projeto em desenvolvimento nesse [LINK](https://github.com/samysuki1/healthhub)
+
 ## Opiniões de Pacientes Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
