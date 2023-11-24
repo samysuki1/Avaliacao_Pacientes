@@ -1,9 +1,10 @@
 export const HOBBIES_CONFIG = {
   TITLE: "Planos de Saúde",
   DATA: [
-    "Confira abaixo o Top 3 dos convênios mais atendidos:",
+    "Amil empresa",
     "Intermédica empresarial",
       "Notredame Intermédica",
+      "Porto Seguro",
       "SulAmérica Saúde",
       
   ],
