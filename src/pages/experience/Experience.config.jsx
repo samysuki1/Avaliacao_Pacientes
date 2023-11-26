@@ -1,7 +1,7 @@
 export const EXPERIENCE_CONFIG = {
   TITLE: "Corpo Clínico",
   DATA: {
-    COMPANY: "Conheça nossa renomada equipe de médicos e áreas de atuação mais pesquisadas",
+    COMPANY: "Conheça nossa renomada equipe de médicos e áreas de atuação mais pesquisadas pelos pacientes.",
     ROLE: "",
     DESCRIPTION: {
       TITLE: "",
